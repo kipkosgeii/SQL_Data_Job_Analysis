@@ -9,11 +9,6 @@ Through a comprehensive analysis of job market data, this project seeks to ident
 - Where demand meet salary in analysitic 
 
 For the Sql Queries? Check on how i approched each solution here: [project_sql folder](/project_sql/)
-# Background
-
-Certainly! Here’s the updated background with your research questions included:
-
----
 
 ## Background
 
@@ -53,6 +48,20 @@ I was able to successfully manage my work and finish my data analysis job thanks
 
 ## **What are the top-paying Data Analyst jobs?**
 
+
+Summary of the Top-Paying Jobs:
+Data Analyst at Mantys: This full-time position offers an impressive average yearly salary of $650,000. The job was posted on February 20, 2023.
+
+Director of Analytics at Meta: This full-time role commands a salary of $336,500 per year, making it one of the highest-paying jobs listed. It was posted on August 23, 2023.
+
+Associate Director - Data Insights at AT&T: With an average yearly salary of $255,829.5, this full-time position was posted on June 18, 2023.
+
+Data Analyst, Marketing at Pinterest Job Advertisements: This full-time role offers a yearly salary of $232,423 and was posted on December 5, 2023.
+
+Data Analyst (Hybrid/Remote) at Uclahealthcareers: This full-time position offers a salary of $217,000 annually, with the job posting dated January 17, 2023.
+
+For the Sql Queries Check the solution here: [SQL top Paying Job](/project_sql/1_1_top_paying_job.sql)
+
 | job_id  | job_title                            | job_schedule_type | salary_year_avg | job_posted_date       | company_name                 |
 |---------|--------------------------------------|-------------------|-----------------|-----------------------|------------------------------|
 | 226942  | Data Analyst                         | Full-time         | 650000.0        | 2023-02-20 15:13:33    | Mantys                       |
@@ -63,6 +72,15 @@ I was able to successfully manage my work and finish my data analysis job thanks
 
  ## **What are the top-paying jobs per country?**
 
+The heatmap provides a visual representation of job openings across various countries, showing how demand for different job titles varies by location.
+
+United States: As expected, the U.S. dominates with a high number of job openings across multiple data-related roles. The intensity of the red color across several job titles indicates a strong demand for roles like Data Scientist, Data Engineer, and Data Analyst.
+
+India: Similar to the U.S., India shows a high demand for several data-centric positions, particularly in engineering and analyst roles, reflecting the country’s growing tech industry.
+
+Germany and the United Kingdom: Both countries exhibit significant demand for specific roles, with some variation in the intensity of the demand. The red and orange tones indicate these are key markets for data professionals in Europe.
+
+For the Sql Queries Check the solution here: [SQL top Paying Job](/project_sql/1_2_top_Jobs.sql)
 
 ![Heatmap of Job Openings](image/Job_market_per_country.png)
 
