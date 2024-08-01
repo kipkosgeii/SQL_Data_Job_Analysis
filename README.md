@@ -50,6 +50,22 @@ I was able to successfully manage my work and finish my data analysis job thanks
 
 
 # The Analysis
+
+## **What are the top-paying Data Analyst jobs?**
+
+| job_id  | job_title                            | job_schedule_type | salary_year_avg | job_posted_date       | company_name                 |
+|---------|--------------------------------------|-------------------|-----------------|-----------------------|------------------------------|
+| 226942  | Data Analyst                         | Full-time         | 650000.0        | 2023-02-20 15:13:33    | Mantys                       |
+| 547382  | Director of Analytics                | Full-time         | 336500.0        | 2023-08-23 12:04:42    | Meta                         |
+| 552322  | Associate Director- Data Insights    | Full-time         | 255829.5        | 2023-06-18 16:03:12    | AT&T                         |
+| 99305   | Data Analyst, Marketing              | Full-time         | 232423.0        | 2023-12-05 20:00:40    | Pinterest Job Advertisements |
+| 1021647 | Data Analyst (Hybrid/Remote)         | Full-time         | 217000.0        | 2023-01-17 00:17:23    | Uclahealthcareers            |
+
+ ## **What are the top-paying jobs per country?**
+
+
+![Heatmap of Job Openings](image/Job_market_per_country.png)
+
 # What I learned 
  **SQL**
 
